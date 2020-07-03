@@ -1,4 +1,5 @@
 # golang
 Introductory course to programming in Go
 
-![imagen](https://1.bp.blogspot.com/-J_7Dq7ovbwQ/XmFfXD2wAmI/AAAAAAAAr6I/6_sUNbgsrsofNg7xoIrJndN1xida3XdDwCLcBGAsYHQ/s1600/Golang.png)
+
+![imagen](https://miro.medium.com/max/3150/1*yh90bW8jL4f8pOTZTvbzqw.png)
