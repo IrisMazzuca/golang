@@ -111,5 +111,3 @@ func Maps() {
 	}
 
 }
-
-// Ejercicio: se pide al usuario un número, iteramos ese num desde cero para encontrar los numeros pares y poder mostrarlos.
