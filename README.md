@@ -1,5 +1,6 @@
-# golang
-Introductory course to programming in Go
+# Golang course
+
+Introduction to Go Programming Language
 
 Course provided by TheWildcast channel through twitch 
 
